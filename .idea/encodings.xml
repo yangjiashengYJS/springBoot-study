@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Chapter1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter2-1-1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter3-1-1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter3-1-2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter3-1-3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter3-1-4" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter3-1-5" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter3-1-6" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter3-2-1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter3-2-2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter3-2-3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter3-2-4" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter3-2-5" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter3-2-6" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter3-2-7" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter3-2-8" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter3-3-1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter4-1-1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter4-1-2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter4-2-2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter4-2-3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter4-2-4" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter4-2-5" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter4-2-6" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter4-3-1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter4-4-1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter4-4-2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter4-5-1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter5-2-1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter6-1-1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter6-2-1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter9-1-1/compute-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter9-1-1/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter9-1-2/eureka-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter9-1-2/eureka-ribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter9-1-3/compute-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter9-1-3/eureka-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter9-1-3/eureka-ribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter9-1-3/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter9-1-4/config-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter9-1-4/config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter9-1-5/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter9-1-5/service-A" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter9-1-5/service-B" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter9-2-1/compute-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter9-2-1/consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter9-2-2/compute-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter9-2-2/compute-service/compute-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter9-2-2/compute-service/compute-api-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter9-2-2/consumer" charset="UTF-8" />
+  </component>
+</project>

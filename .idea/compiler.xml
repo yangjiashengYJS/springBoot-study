@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Chapter1" />
+        <module name="Chapter2-1-1" />
+        <module name="Chapter3-1-1" />
+        <module name="Chapter3-1-2" />
+        <module name="Chapter3-1-6" />
+        <module name="Chapter3-2-1" />
+        <module name="Chapter3-2-2" />
+        <module name="Chapter3-2-3" />
+        <module name="Chapter3-2-4" />
+        <module name="Chapter3-2-5" />
+        <module name="Chapter3-2-7" />
+        <module name="Chapter3-2-8" />
+        <module name="Chapter3-3-1" />
+        <module name="Chapter4-1-1" />
+        <module name="Chapter4-1-2" />
+        <module name="Chapter4-2-2" />
+        <module name="Chapter4-2-3" />
+        <module name="Chapter4-2-4" />
+        <module name="Chapter4-2-5" />
+        <module name="Chapter4-3-1" />
+        <module name="Chapter4-4-1" />
+        <module name="Chapter4-4-2" />
+        <module name="Chapter4-5-1" />
+        <module name="Chapter6-2-1" />
+        <module name="compute-api" />
+        <module name="compute-api-server" />
+        <module name="compute-service (1)" />
+        <module name="compute-service (2)" />
+        <module name="compute-service (3)" />
+        <module name="config-client" />
+        <module name="config-server" />
+        <module name="consumer (1)" />
+        <module name="consumer (2)" />
+        <module name="demo (1)" />
+        <module name="demo (2)" />
+        <module name="demo (3)" />
+        <module name="demo (4)" />
+        <module name="eureka-feign (1)" />
+        <module name="eureka-feign (2)" />
+        <module name="eureka-ribbon (1)" />
+        <module name="eureka-ribbon (2)" />
+        <module name="eureka-server (1)" />
+        <module name="eureka-server (2)" />
+        <module name="eureka-server (3)" />
+        <module name="rabbitmq-hello" />
+        <module name="service-A" />
+        <module name="service-B" />
+        <module name="SpringBootWithSwagger" />
+        <module name="statemachine" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Chapter1" target="1.8" />
+      <module name="Chapter2-1-1" target="1.8" />
+      <module name="Chapter3-1-1" target="1.8" />
+      <module name="Chapter3-1-2" target="1.8" />
+      <module name="Chapter3-1-6" target="1.8" />
+      <module name="Chapter3-2-1" target="1.8" />
+      <module name="Chapter3-2-2" target="1.8" />
+      <module name="Chapter3-2-3" target="1.8" />
+      <module name="Chapter3-2-4" target="1.8" />
+      <module name="Chapter3-2-5" target="1.8" />
+      <module name="Chapter3-2-7" target="1.8" />
+      <module name="Chapter3-2-8" target="1.8" />
+      <module name="Chapter3-3-1" target="1.8" />
+      <module name="Chapter4-1-1" target="1.8" />
+      <module name="Chapter4-1-2" target="1.8" />
+      <module name="Chapter4-2-2" target="1.8" />
+      <module name="Chapter4-2-3" target="1.8" />
+      <module name="Chapter4-2-4" target="1.8" />
+      <module name="Chapter4-2-5" target="1.8" />
+      <module name="Chapter4-3-1" target="1.8" />
+      <module name="Chapter4-4-1" target="1.8" />
+      <module name="Chapter4-4-2" target="1.8" />
+      <module name="Chapter4-5-1" target="1.8" />
+      <module name="Chapter6-2-1" target="1.8" />
+      <module name="compute-api" target="1.7" />
+      <module name="compute-api-server" target="1.8" />
+      <module name="compute-service (1)" target="1.8" />
+      <module name="compute-service (2)" target="1.8" />
+      <module name="compute-service (3)" target="1.8" />
+      <module name="compute-service (4)" target="1.7" />
+      <module name="config-client" target="1.8" />
+      <module name="config-server" target="1.8" />
+      <module name="consumer (1)" target="1.8" />
+      <module name="consumer (2)" target="1.8" />
+      <module name="demo (1)" target="1.8" />
+      <module name="demo (2)" target="1.8" />
+      <module name="demo (3)" target="1.8" />
+      <module name="demo (4)" target="1.8" />
+      <module name="eureka-feign (1)" target="1.8" />
+      <module name="eureka-feign (2)" target="1.8" />
+      <module name="eureka-ribbon (1)" target="1.8" />
+      <module name="eureka-ribbon (2)" target="1.8" />
+      <module name="eureka-server (1)" target="1.8" />
+      <module name="eureka-server (2)" target="1.8" />
+      <module name="eureka-server (3)" target="1.8" />
+      <module name="rabbitmq-hello" target="1.8" />
+      <module name="service-A" target="1.8" />
+      <module name="service-B" target="1.8" />
+      <module name="SpringBootWithSwagger" target="1.8" />
+      <module name="statemachine" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
