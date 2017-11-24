@@ -82,7 +82,7 @@
       <module name="Chapter4-4-2" target="1.8" />
       <module name="Chapter4-5-1" target="1.8" />
       <module name="Chapter6-2-1" target="1.8" />
-      <module name="compute-api" target="1.7" />
+      <module name="compute-api" target="1.8" />
       <module name="compute-api-server" target="1.8" />
       <module name="compute-service (1)" target="1.8" />
       <module name="compute-service (2)" target="1.8" />
